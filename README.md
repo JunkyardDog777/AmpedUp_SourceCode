@@ -1,7 +1,7 @@
 Whats up Armo xP
 
 
-Git version 0.0.1
+commit version 0.0.1
 
 This version includes networked multicat move commands.
 incoming fix
