@@ -3,7 +3,7 @@ Whats up Armo xP
 
 commit version 0.0.1
 
-This version includes networked multicat move commands.
+This version includes networked multicast move commands.
 incoming fix
 - Amped up panel
 - all the keys now trigger the move command. next version will have that fixed
